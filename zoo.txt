@@ -1,1 +1,7 @@
+Protovis
+box-and-whisker plots
 Q-Q Plots
+Choropleth Maps
+icicle
+sunburst
+Voronoi
